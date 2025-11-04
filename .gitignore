@@ -1,12 +1,30 @@
+# Python
 __pycache__/
 *.pyc
-.vscode/
-*.ipynb_checkpoints
+*.pyo
+*.pyd
 .env
+.venv
+env/
+venv/
+.dsenv/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data and models
 *.csv
-*.pkl
 *.zip
-*.gz
-*.tar
-*.tar.gz
+*.pkl
 *.h5
+*.txt
+*.gz
+*.npz
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
