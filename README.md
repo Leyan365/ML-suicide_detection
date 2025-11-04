@@ -23,11 +23,6 @@ This project builds a deep learning model that detects suicidal text posts using
 - Jupyter Notebook
 - Git + GitHub for version control
 
-## 🚀 Future Work
-- Train LSTM model and evaluate metrics
-- Integrate with **Streamlit** for live prediction
-- Deploy on **Hugging Face Spaces** or **Streamlit Cloud**
-
 ---
 
 **Author:** [Leyan365](https://github.com/Leyan365)  
