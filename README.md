@@ -55,7 +55,7 @@ The dataset is **balanced**, which helps avoid biased classification.
 
 ---
 
-![Streamlit App Screenshot](assets/<img width="1340" height="863" alt="suicide ss" src="https://github.com/user-attachments/assets/be4fd77f-9afe-4549-99ec-fcff98e5ce02" />)
+[Streamlit App Screenshot](<img width="1340" height="863" alt="suicide ss" src="https://github.com/user-attachments/assets/be4fd77f-9afe-4549-99ec-fcff98e5ce02" />)
 
 
 **Author:** [Leyan365](https://github.com/Leyan365)  
