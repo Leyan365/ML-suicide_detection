@@ -55,7 +55,8 @@ The dataset is **balanced**, which helps avoid biased classification.
 
 ---
 
-[Streamlit App Screenshot] 
+## 📷 Streamlit App Preview
+
 (<img width="1340" height="863" alt="suicide ss" src="https://github.com/user-attachments/assets/be4fd77f-9afe-4549-99ec-fcff98e5ce02" />)
 
 
